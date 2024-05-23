@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: node-todo-container
-        image: vinod200103/nodejs-project:1.3 # Replace with your Docker image
+        image: kuppam1234/application:1.0 # Replace with your Docker image
         ports:
         - containerPort: 5000  # Assuming your React app listens on port 80
